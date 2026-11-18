@@ -16,11 +16,8 @@ os.makedirs(OUT, exist_ok=True)
 FOTO = "data:image/jpeg;base64," + base64.b64encode(open(os.path.join(HERE, "foto.jpg"), "rb").read()).decode()
 E = html.escape
 
-MONO = """<svg class="mono" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-<rect x="3" y="3" width="94" height="94" fill="none" stroke="currentColor" stroke-width="2.2"/>
-<rect x="9" y="9" width="82" height="82" fill="none" stroke="currentColor" stroke-width="0.8"/>
-<text x="50" y="66" text-anchor="middle" font-family="Cormorant Garamond" font-weight="600" font-size="50" fill="currentColor" letter-spacing="-2">BJ</text>
-</svg>"""
+import marca
+MONO = marca.simbolo(84, cut="var(--cut,#0D2033)", uid="bm").replace("<svg ", '<svg class="mono" ', 1)
 
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
@@ -35,7 +32,8 @@ body{width:%(w)dpx;height:%(h)dpx;overflow:hidden;font-family:Montserrat,sans-se
 .frame{position:absolute;inset:34px;border:1.5px solid rgba(184,146,90,.45);pointer-events:none}
 .top{display:flex;justify-content:space-between;align-items:center;position:relative;z-index:2}
 .brand{display:flex;align-items:center;gap:20px}
-.mono{width:74px;height:74px;color:var(--gold)}
+.mono{width:62px;height:84px;color:var(--gold);flex:none}
+.light{--cut:#F3EEE3}
 .bn{font-family:'Cormorant Garamond';font-weight:600;font-size:30px;letter-spacing:6px;line-height:1}
 .bs{white-space:nowrap;font-size:12.5px;letter-spacing:3.2px;margin-top:8px;color:var(--gold);font-weight:500}
 .tag{border:1.5px solid var(--gold);color:var(--gold);padding:11px 20px;font-size:15px;letter-spacing:2.2px;text-transform:uppercase;font-weight:600;border-radius:40px;white-space:nowrap}
@@ -176,6 +174,11 @@ def jobs():
             yield p, total, cta(p, total), (1080, 1350)
         elif p["tipo"] == "post":
             yield p, 1, single(p), (1080, 1350)
+        elif p["tipo"] == "arte":
+            import re as _re
+            for i, (fn, args) in enumerate(p["pages"], start=1):
+                h = getattr(marca, fn)(*args)
+                yield p, i, h, (int(_re.search(r'width:(\d+)px', h).group(1)), int(_re.search(r'height:(\d+)px', h).group(1)))
         else:
             yield p, 1, story(p), (1080, 1920)
             if p.get("resposta"):
