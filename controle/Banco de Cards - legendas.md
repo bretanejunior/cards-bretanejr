@@ -905,3 +905,137 @@ Você já leu o art. 5º inteiro? Comente “sim” ou “não”.
 
 #constituicao #artigo5 #direitosfundamentais #cidadania #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
 
+
+# Lote 4 — Atualizações de nov/2026 (aposentadoria 2027, PIX/MED, Tema 929, uberização, BPC, eletricidade)
+
+## P48 · Semana 9 · Terça — Aposentadoria em 2027: o que muda em janeiro.
+**Formato:** Carrossel · **Área:** Direito Previdenciário  
+**Imagens:** P48_01.png, P48_02.png, P48_03.png, P48_04.png, P48_05.png, P48_06.png
+
+**Legenda:**
+
+Vai se aposentar? Em 1º de janeiro de 2027 as regras de transição ficam mais exigentes.
+
+A regra dos pontos sobe para 94 (mulheres) e 104 (homens), e a idade mínima progressiva vai a 60 e 65 anos. Quem completou os requisitos até 31/12/2026 mantém o direito pelas regras de 2026.
+
+➡️ Arraste e veja os números de 2027.
+📌 Salve e envie para quem está perto de se aposentar.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+(Substitui o card P37 a partir de janeiro de 2027.)
+
+#aposentadoria #inss #aposentadoria2027 #previdenciario #regrasdetransicao #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+**Roteiro de Reels:** GANCHO: “Vai se aposentar? Em janeiro tudo muda.” · MEIO: 94/104 pontos + idade mínima 60/65 + direito adquirido de quem completou em 2026 · FINAL: “Simula no Meu INSS e manda pra quem precisa.”
+
+## P49 · Semana 9 · Quarta — Golpe do PIX: o que mudou no MED em 2026.
+**Formato:** Carrossel · **Área:** Golpes e Fraudes  
+**Imagens:** P49_01.png, P49_02.png, P49_03.png, P49_04.png, P49_05.png, P49_06.png
+
+**Legenda:**
+
+Caiu no golpe do PIX? As regras para recuperar o dinheiro mudaram em 2026.
+
+O MED agora consegue rastrear o dinheiro entre várias contas, e a vítima tem até 80 dias para pedir a devolução. Ainda assim, agir nos primeiros minutos faz toda a diferença.
+
+➡️ Arraste e veja o passo a passo.
+📌 Salve e mande para seus pais e avós.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#golpedopix #pix #med #bancocentral #fraudebancaria #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+**Roteiro de Reels:** GANCHO: “O Banco Central mudou as regras do golpe do PIX.” · MEIO: MED 2.0 rastreia o dinheiro + prazo de 80 dias + Súmula 479 · FINAL: “Salva e manda no grupo da família.”
+
+## P50 · Semana 9 · Quinta — Cobrança indevida: devolução em dobro, mesmo sem má-fé.
+**Formato:** Post único · **Área:** Direito do Consumidor  
+**Imagens:** P50_01.png
+
+**Legenda:**
+
+Pagou uma cobrança que não devia? A lei garante a devolução em dobro, com correção e juros.
+
+O STJ consolidou, em julgamento repetitivo, que não é preciso provar má-fé da empresa: basta que a cobrança contrarie a boa-fé. E a decisão vale também para cobranças antigas.
+
+📌 Salve e guarde seus comprovantes e protocolos.
+💬 Já pagou algo que não devia? Conta nos comentários.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#devolucaoemdobro #cobrancaindevida #direitodoconsumidor #cdc #stj #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+## P51 · Semana 9 · Sexta — Uberização: o STF adiou e a OIT aprovou nova convenção.
+**Formato:** Post único · **Área:** Motoristas e Entregadores  
+**Imagens:** P51_01.png
+
+**Legenda:**
+
+Motorista e entregador de aplicativo: a decisão do STF sobre vínculo de emprego ficou para depois.
+
+O julgamento estava marcado para 24 de junho, mas foi retirado de pauta após a aprovação da Convenção 193 da OIT, que trata de remuneração, saúde, previdência e gestão por algoritmo. Até o STF decidir, as decisões continuam variando caso a caso.
+
+🚗🛵 Compartilhe no grupo dos motoristas e entregadores.
+💬 Você acha que deve haver carteira assinada? Comente.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#uberizacao #motoristadeaplicativo #entregador #stf #oit #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+## P52 · Semana 9 · Sábado — BPC: prazo do CadÚnico prorrogado para 2027.
+**Formato:** Post único · **Área:** Direito Previdenciário  
+**Imagens:** P52_01.png
+
+**Legenda:**
+
+Atenção, famílias de idosos e pessoas com deficiência que recebem o BPC.
+
+O Governo Federal prorrogou até 31 de dezembro de 2027 o prazo para regularizar o Cadastro Único de quem estava no antigo Formulário de Impossibilidade, como pessoas acamadas ou sem representante legal. Quem perde o prazo pode ter o benefício negado ou suspenso.
+
+📌 Salve e procure o CRAS do seu município.
+🔁 Compartilhe com quem cuida de um beneficiário.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#bpc #loas #cadunico #inss #assistenciasocial #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+## P53 · Semana 10 · Segunda — Eletricista tem aposentadoria especial? O STJ vai decidir.
+**Formato:** Post único · **Área:** Direito Previdenciário  
+**Imagens:** P53_01.png
+
+**Legenda:**
+
+Trabalha ou trabalhou exposto à alta tensão? Esse tema voltou ao STJ.
+
+A Primeira Seção vai decidir, com efeito para todo o país, se o risco de choque elétrico ainda permite contar o tempo como especial. Até lá, os processos sobre o assunto estão suspensos.
+
+⚡ Compartilhe com eletricistas e colegas do setor elétrico.
+📌 Salve e reúna seus documentos desde já.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#aposentadoriaespecial #eletricista #inss #stj #previdenciario #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
+
+## S10 · Semana 9 · Quinta (story) — Verdadeiro ou falso: para receber em dobro uma cobrança indevida, você precisa provar a má-fé da empresa.
+**Formato:** Story · **Área:** Quiz  
+**Imagens:** S10_01.png, S10_02.png
+
+**Legenda:**
+
+(Story) Use a figurinha de QUIZ. No story seguinte, revele a resposta e direcione para o post P50.
+
+## P54 · Semana 10 · Terça — Constituição: defesa do consumidor (art. 5º, XXXII)
+**Formato:** Post único · **Área:** Frases do Direito  
+**Imagens:** P54_01.png
+
+**Legenda:**
+
+Você sabia que a defesa do consumidor está na Constituição, entre os direitos fundamentais?
+
+Foi desse artigo que nasceu o Código de Defesa do Consumidor, em 1990: a lei que protege você contra cobranças indevidas, produtos com defeito e práticas abusivas.
+
+💬 Qual direito do consumidor você mais usa? Comente.
+
+Conteúdo informativo. Cada caso exige análise individual.
+
+#constituicao #direitodoconsumidor #cdc #frasesdodireito #cidadania #advogadoaracaju #advocaciasergipe #sergipe #aracaju #direito
